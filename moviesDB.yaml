@@ -1,0 +1,46 @@
+movieList:
+- Title: Pelíšky
+  Genre: drama
+  ReleaseDate: 1999-11-30T00:00:00.0000000
+  Rating: 0.91
+  Availability: true
+- Title: Godfather
+  Genre: thriller
+  ReleaseDate: 1972-03-26T00:00:00.0000000
+  Rating: 0.94
+  Availability: true
+- Title: Titanic
+  Genre: drama
+  ReleaseDate: 1997-12-19T00:00:00.0000000
+  Rating: 0.94
+  Availability: true
+- Title: Forest Gump
+  Genre: komediální drama
+  ReleaseDate: 1994-06-23T00:00:00.0000000
+  Rating: 0.94
+  Availability: true
+- Title: Ženy v běhu
+  Genre: komedie
+  ReleaseDate: 2019-01-22T00:00:00.0000000
+  Rating: 0.7
+  Availability: true
+- Title: Kill Bill
+  Genre: thriller
+  ReleaseDate: 2004-01-05T00:00:00.0000000
+  Rating: 0.79
+  Availability: true
+- Title: Pulpfiction
+  Genre: akční film
+  ReleaseDate: 1994-02-11T00:00:00.0000000
+  Rating: 0.91
+  Availability: true
+- Title: Žraloknádo
+  Genre: Scifi
+  ReleaseDate: 2013-02-12T00:00:00.0000000
+  Rating: 0.29
+  Availability: true
+- Title: Ethenals
+  Genre: akční film
+  ReleaseDate: 2021-08-19T00:00:00.0000000
+  Rating: 0.6
+  Availability: true
